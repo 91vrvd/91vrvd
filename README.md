@@ -11,6 +11,7 @@
 | [Liu OS](https://liu-os-7obu.qq1279622658.chatgpt.site/desktop/) | 把个人资料和项目放进可操作的桌面界面 | [打开网站](https://liu-os-7obu.qq1279622658.chatgpt.site/desktop/) |
 | [Liu OS · GitHub Pages 版](https://github.com/91vrvd/91vrvd.github.io) | 个人网站的公开静态版本 | [在线查看](https://91vrvd.github.io/) |
 | [三星计算器](https://github.com/91vrvd/samsung-calculator-ios) | 离线 iPhone 流水计算器，支持普通话播报、历史标注与单位换算 | [查看代码](https://github.com/91vrvd/samsung-calculator-ios) |
+| [青译翻译](https://github.com/91vrvd/qingyi) | iPhone 本机翻译原型，支持屏幕画中画、智能镜头与语音字幕 | [查看代码](https://github.com/91vrvd/qingyi) |
 | [给生活的答案](https://github.com/91vrvd/answers-for-life) | 在手机上回答问题，保存成图片或 Word | [在线查看](https://91vrvd.github.io/answers-for-life/) |
 | [空气吉他](https://github.com/91vrvd/vibe-air-guitar) | 用摄像头手势选和弦，跟着伴奏弹奏 | [在线查看](https://91vrvd.github.io/vibe-air-guitar/) |
 | [U 卡对比百科](https://github.com/91vrvd/ucards-compare) | 对比消费卡的费用和申请条件 | [在线查看](https://91vrvd.github.io/ucards-compare/) |
@@ -22,6 +23,7 @@
 
 - **Liu OS:** My current desktop-style personal site. The public [GitHub Pages edition](https://github.com/91vrvd/91vrvd.github.io) is maintained separately.
 - **Samsung-style Calculator:** An offline iPhone calculator with a running history, Mandarin voice feedback, and unit conversion.
+- **Qingyi Translate:** An iPhone translation prototype with picture-in-picture screen translation, smart lens, and speech subtitles. [Source](https://github.com/91vrvd/qingyi)
 - **Answers for Life:** A question book that saves answers on your device.
 - **Vibe Air Guitar:** Play along with accompaniment by choosing chords through camera-based hand gestures.
 - **U Card Compare:** A comparison of payment cards, fees, and eligibility.
